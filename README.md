@@ -2,6 +2,8 @@
 
 Dashboard interativo para explorar a evolução dos salários na área de dados: filtros por ano, senioridade, tipo de contrato e tamanho da empresa, com indicadores e gráficos atualizados em tempo real.
 
+[![CI](https://github.com/GilvamOliveira/Dashboard-Salarios-Area-de-Dados/actions/workflows/ci.yml/badge.svg)](https://github.com/GilvamOliveira/Dashboard-Salarios-Area-de-Dados/actions/workflows/ci.yml)
+
 ![Demonstração do dashboard](demo/dashboard.gif)
 
 ## Funcionalidades
