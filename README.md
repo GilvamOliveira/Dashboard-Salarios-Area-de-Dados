@@ -4,8 +4,6 @@ Dashboard interativo para explorar a evolução dos salários na área de dados:
 
 **Demo online:** https://dashboard-salario-na-area-de-dados-2025.streamlit.app/
 
-[![CI](https://github.com/GilvamOliveira/Dashboard-Salarios-Area-de-Dados/actions/workflows/ci.yml/badge.svg)](https://github.com/GilvamOliveira/Dashboard-Salarios-Area-de-Dados/actions/workflows/ci.yml)
-
 ![Demonstração do dashboard](demo/dashboard.gif)
 
 ## Funcionalidades
