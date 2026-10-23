@@ -43,9 +43,6 @@ streamlit run app.py
 
 A aplicação consome uma base pública de salários da área de dados publicada no repositório [vqrca/dashboard_salarios_dados](https://github.com/vqrca/dashboard_salarios_dados).
 
-## Autor
+---
 
-Gilvam Oliveira
-
-- GitHub: [github.com/GilvamOliveira](https://github.com/GilvamOliveira)
-- LinkedIn: [linkedin.com/in/gilvam-oliveira](https://www.linkedin.com/in/gilvam-oliveira/)
+Autor: Gilvam Oliveira · [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/) · [GitHub](https://github.com/GilvamOliveira)
